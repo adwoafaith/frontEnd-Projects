@@ -1,0 +1,64 @@
+.main-menu{
+    top: 20px;
+  background-color: rgb(218, 238, 238);
+
+}
+.menu-items{
+   
+    position: relative;
+    width: 400px;
+    left: 400px;
+}
+.menu-title{
+    position: relative;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: underline rgb(131, 82, 25);
+    text-transform: capitalize;
+    right: 50px;
+}
+.pictures {
+    height: 200px;
+    width: 300px;
+    background-color:rgb(131, 82, 25);
+    
+}
+.pictures img{
+  
+}
+.title-prices{
+    display: flex
+}
+.my-titles{
+    position: relative;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-weight: bold;
+    bottom: 20px;
+    right: 80px;
+  
+}
+.description{
+    position: relative;
+   width: 300px;
+   bottom: 80px;
+}
+.description p{
+border: -50px;
+}
+.prices{
+    position: relative;
+    color:rgb(131, 82, 25) ;
+    bottom: 40px;
+    
+}
+.cat-button{
+    position: relative;
+    color:rgb(131, 82, 25);
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    justify-content: space-between;
+    left: 450px;
+}

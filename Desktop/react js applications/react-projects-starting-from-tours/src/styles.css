@@ -1,0 +1,52 @@
+*{
+ padding: 10px;
+ justify-content: center;
+
+}
+.tour  {
+  text-decoration: underline;
+  color: violet;
+  text-align: center;
+
+
+}
+.my-image{
+  text-align: center;
+  
+
+}
+.item-container{
+ 
+  align-items: center;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  justify-content: center;
+}
+.price{
+margin-left: 1050px;
+background-color: white;
+color: blue;
+box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+border-radius: 10px;
+}
+.button{
+  border: none;
+  background-color: transparent;
+
+}
+.not-interested{
+  display: inline;
+  background-color: violet;
+  margin-left: 500px;
+  border-radius: 7px;
+  text-align: center;
+  padding: 10px;
+  border: none;
+}
+.info{
+ justify-content: center;
+}
+.clear-button{
+background-color:rgb(89, 89, 233);
+border: none;
+border-radius: 7px;
+}
