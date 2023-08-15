@@ -61,7 +61,7 @@ const Tours = () => {
                     return (
                         <div key={id} className='item-container'>
                             <div className='my-image'>
-                                <img src={image} alt={name} />
+                                <img src={image} alt={name}  className='tour-image'/>
 
                             </div>
                             <span className='price' style={{ textAlign: 'right' }}>${price}</span>

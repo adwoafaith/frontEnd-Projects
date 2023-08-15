@@ -3,6 +3,7 @@ import Tours from './tours';
 import Questionnaires from './Questionnaire';
 import Menu from './Menu';
 import Tabs from './Tabs';
+import Reviews2 from './review-refactoring';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Questionnaires/>
       <Menu/>
       <Tabs/>
+      <Reviews2/>
     </div>
   )
 }
