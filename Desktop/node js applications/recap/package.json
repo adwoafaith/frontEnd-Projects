@@ -1,0 +1,23 @@
+{
+  "name": "recap",
+  "version": "1.0.0",
+  "description": "my john smilga's recap",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my recap"
+  },
+  "author": "Faith Ayeh Mensah",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "mongoose": "^7.6.0",
+    "nodemon": "^3.0.1",
+    "validator": "^13.11.0"
+  }
+}
